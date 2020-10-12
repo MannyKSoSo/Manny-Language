@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Rellanic-Custom;
+    src: url('./Rellanic.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Rellanic-Custom;
+    font-weight: bold;
+    font-style: normal;
+    src: url('./Rellanic Bold.otf') format("opentype");
+}
+
+@font-face {
+    font-family: Rellanic-Custom;
+    font-weight: normal;
+    font-style: italic;
+    src: url('./Rellanic Italic.otf') format("opentype");
+}
+
+@font-face {
+    font-family: Rellanic-Custom;
+    font-weight: bold;
+    font-style: italic;
+    src: url('./Rellanic Bold Italic.otf') format("opentype");
+}

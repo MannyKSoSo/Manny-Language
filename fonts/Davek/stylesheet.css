@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Davek-Custom;
+    src: url('./Davek.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Davek-Custom;
+    font-weight: bold;
+    font-style: normal;
+    src: url('./Davek Bold.otf') format("opentype");
+}
+
+@font-face {
+    font-family: Davek-Custom;
+    font-weight: normal;
+    font-style: italic;
+    src: url('./Davek Italic.otf') format("opentype");
+}
+
+@font-face {
+    font-family: Davek-Custom;
+    font-weight: bold;
+    font-style: italic;
+    src: url('./Davek Bold Italic.otf') format("opentype");
+}

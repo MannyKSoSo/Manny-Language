@@ -1,0 +1,21 @@
+/*
+    Variables for uniform color control
+*/
+body {
+    --barazhad-journal-base-font: 'Barazhad-Custom', "Signika", sans-serif;
+}
+
+.barazhad-journal h1, .barazhad-journal h2, .barazhad-journal .editor-content>h3, .barazhad-journal .editor-content>h4, .barazhad-journal .editor-content>h5, .barazhad-journal .editor-content>h6, .barazhad-journal .editor-content>p, .barazhad-journal .editor-content>ul {
+    border-bottom: 0px;
+    font-family: 'Barazhad-Custom', "Signika", sans-serif;
+    line-height: 85%;
+    font-size: 2.2em;
+}
+
+/* MEME minimal compatibility */
+
+.barazhad-journal .CodeMirror p, 
+.barazhad-journal .CodeMirror ul {
+    font-family: 'Barazhad-Custom', "Signika", sans-serif;
+    font-size: 2.2em;
+}

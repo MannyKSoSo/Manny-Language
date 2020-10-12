@@ -1,0 +1,21 @@
+/*
+    Variables for uniform color control
+*/
+body {
+    --iokharic-journal-base-font: 'Iokharic-Custom', "Signika", sans-serif;
+}
+
+.iokharic-journal h1, .iokharic-journal h2, .iokharic-journal .editor-content>h3, .iokharic-journal .editor-content>h4, .iokharic-journal .editor-content>h5, .iokharic-journal .editor-content>h6, .iokharic-journal .editor-content>p, .iokharic-journal .editor-content>ul {
+    border-bottom: 0px;
+    font-family: 'Iokharic-Custom', "Signika", sans-serif;
+    line-height: 85%;
+    font-size: 2.2em;
+}
+
+/* MEME minimal compatibility */
+
+.iokharic-journal .CodeMirror p, 
+.iokharic-journal .CodeMirror ul {
+    font-family: 'Iokharic-Custom', "Signika", sans-serif;
+    font-size: 2.2em;
+}

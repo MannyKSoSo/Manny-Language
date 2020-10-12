@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Iokharic-Custom;
+    src: url('./Iokharic.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Iokharic-Custom;
+    font-weight: bold;
+    font-style: normal;
+    src: url('./Iokharic Bold.otf') format("opentype");
+}
+
+@font-face {
+    font-family: Iokharic-Custom;
+    font-weight: normal;
+    font-style: italic;
+    src: url('./Iokharic Italic.otf') format("opentype");
+}
+
+@font-face {
+    font-family: Iokharic-Custom;
+    font-weight: bold;
+    font-style: italic;
+    src: url('./Iokharic Bold Italic.otf') format("opentype");
+}

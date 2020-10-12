@@ -1,0 +1,21 @@
+/*
+    Variables for uniform color control
+*/
+body {
+    --rellanic-journal-base-font: 'Rellanic-Custom', "Signika", sans-serif;
+}
+
+.rellanic-journal h1, .rellanic-journal h2, .rellanic-journal .editor-content>h3, .rellanic-journal .editor-content>h4, .rellanic-journal .editor-content>h5, .rellanic-journal .editor-content>h6, .rellanic-journal .editor-content>p, .rellanic-journal .editor-content>ul {
+    border-bottom: 0px;
+    font-family: 'Rellanic-Custom', "Signika", sans-serif;
+    line-height: 85%;
+    font-size: 2.2em;
+}
+
+/* MEME minimal compatibility */
+
+.rellanic-journal .CodeMirror p, 
+.rellanic-journal .CodeMirror ul {
+    font-family: 'Rellanic-Custom', "Signika", sans-serif;
+    font-size: 2.2em;
+}

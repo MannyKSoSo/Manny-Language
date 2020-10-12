@@ -1,0 +1,21 @@
+/*
+    Variables for uniform color control
+*/
+body {
+    --davek-journal-base-font: 'Davek-Custom', "Signika", sans-serif;
+}
+
+.davek-journal h1, .davek-journal h2, .davek-journal .editor-content>h3, .davek-journal .editor-content>h4, .davek-journal .editor-content>h5, .davek-journal .editor-content>h6, .davek-journal .editor-content>p, .davek-journal .editor-content>ul {
+    border-bottom: 0px;
+    font-family: 'Davek-Custom', "Signika", sans-serif;
+    line-height: 85%;
+    font-size: 2.2em;
+}
+
+/* MEME minimal compatibility */
+
+.davek-journal .CodeMirror p, 
+.davek-journal .CodeMirror ul {
+    font-family: 'Davek-Custom', "Signika", sans-serif;
+    font-size: 2.2em;
+}
