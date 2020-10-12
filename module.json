@@ -2,29 +2,29 @@
 	"name": "manny-language",
 	"title": "Manny's Languages",
 	"description": "Allows the user to change the language to one that is from DND 5e",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Manny K SoSo",
 	"scripts": [],
 	"styles": [
-        "fonts/Barazhad/stylesheet.css",
-        "fonts/Davek/stylesheet.css",
-        "fonts/Iokharic/stylesheet.css",
-        "fonts/Rellanic/stylesheet.css",
-        "styles/barazhad-journal.css",
-        "styles/davek-journal.css",
-        "styles/iokharic-journal.css",
+        	"fonts/Barazhad/stylesheet.css",
+        	"fonts/Davek/stylesheet.css",
+        	"fonts/Iokharic/stylesheet.css",
+        	"fonts/Rellanic/stylesheet.css",
+        	"styles/barazhad-journal.css",
+        	"styles/davek-journal.css",
+        	"styles/iokharic-journal.css",
 		"styles/rellanic-journal.css",
 		"styles/language-journal.css"
 	],
 	"esmodules": [
-        "scripts/languageJournals.js"
+        	"scripts/languageJournals.js"
 	],
 	"packs": [],
 	"url": "https://github.com/MannyKSoSo/Manny-Language",
 	"manifest": "https://raw.githubusercontent.com/MannyKSoSo/Manny-Language/master/module.json",
-	"license": "https://github.com/MannyKSoSo/Manny-Language/blob/1.0.0/LICENSE",
-	"download": "https://raw.githubusercontent.com/MannyKSoSo/Manny-Language/releases/download/1.0.0/manny-language.zip",
-	"bugs": "https://github.com/Sanyella/MannyKSoSo/Manny-Language/issues",
+	"license": "https://github.com/MannyKSoSo/Manny-Language/blob/1.0.1/LICENSE",
+	"download": "https://github.com/MannyKSoSo/Manny-Language/archive/1.0.1.zip",
+	"bugs": "https://github.com/MannyKSoSo/Manny-Language/issues",
 	"compatibleCoreVersion": "0.7.3",
 	"minimumCoreVersion": "0.6.6"
 }
