@@ -22,6 +22,7 @@
 	"packs": [],
 	"url": "https://github.com/MannyKSoSo/Manny-Language",
 	"manifest": "https://raw.githubusercontent.com/MannyKSoSo/Manny-Language/master/module.json",
+	"license": "https://github.com/MannyKSoSo/Manny-Language/blob/1.0.0/LICENSE",
 	"download": "https://raw.githubusercontent.com/MannyKSoSo/Manny-Language/releases/download/1.0.0/manny-language.zip",
 	"bugs": "https://github.com/Sanyella/MannyKSoSo/Manny-Language/issues",
 	"compatibleCoreVersion": "0.7.3",
