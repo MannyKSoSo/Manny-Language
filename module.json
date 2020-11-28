@@ -2,7 +2,7 @@
 	"name": "manny-language",
 	"title": "Manny's Languages",
 	"description": "Allows the user to change the language to one that is from DND 5e",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"author": "Manny K SoSo",
 	"scripts": [],
 	"styles": [
@@ -22,8 +22,8 @@
 	"packs": [],
 	"url": "https://github.com/MannyKSoSo/Manny-Language",
 	"manifest": "https://raw.githubusercontent.com/MannyKSoSo/Manny-Language/main/module.json",
-	"license": "https://github.com/MannyKSoSo/Manny-Language/blob/1.0.2/LICENSE",
-	"download": "https://github.com/MannyKSoSo/Manny-Language/archive/1.0.2.zip",
+	"license": "https://github.com/MannyKSoSo/Manny-Language/blob/1.0.3/LICENSE",
+	"download": "https://github.com/MannyKSoSo/Manny-Language/archive/1.0.3.zip",
 	"bugs": "https://github.com/MannyKSoSo/Manny-Language/issues",
 	"compatibleCoreVersion": "0.7.3",
 	"minimumCoreVersion": "0.6.6"
